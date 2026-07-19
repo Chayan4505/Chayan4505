@@ -23,12 +23,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```javascript
-const pritam = {
+const Chayan = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
-  currentFocus: "Full Stack Web Development",
-  learning: ["React.js", "Next.js", "TypeScript", "Cloud Technologies"],
-  askMeAbout: ["Web Dev", "Node.js", "React", "Firebase", "MongoDB"],
+  currentFocus: "Artificial Intelligence & Machine Learning Development",
+  learning: ["Python", "Generative AI", "Machine learning", "Cloud Technologies"],
   technologies: {
     frontEnd: ["React", "HTML5", "CSS3", "JavaScript", "TypeScript"],
     backEnd: ["Node.js", "Express.js", "Python", "Flask"],
@@ -200,25 +199,6 @@ while (alive) {
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](https://your-blog-url.com)
-- [Another Amazing Post](https://your-blog-url.com)
-- [How I Built This Project](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
   
