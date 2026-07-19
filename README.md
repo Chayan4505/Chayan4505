@@ -1,10 +1,10 @@
 # 🌟 Welcome to Chayan's Digital Universe 🌟
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pritu761&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="pritu761" />
   <img src="https://img.shields.io/github/followers/pritu761?color=blue&style=for-the-badge&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/pritu761?color=yellow&style=for-the-badge&logo=github" alt="stars" />
-</div>
+</div> -->
 
 ---
 
@@ -12,11 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🚀+Hey+There!+I'm+Chayan!;💻+Full+Stack+Developer;🌟+AI+Ml+Enthusiast;🎯+Always+Learning;💡+Building+the+Future!" />
 </h1>
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
---- -->
+ -->
 
 ## 🎯 About Me
 
