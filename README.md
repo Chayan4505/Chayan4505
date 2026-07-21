@@ -97,13 +97,7 @@ const Chayan = {
 
 ---
 
-## 🏆 Achievement Gallery
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chayan4505&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -175,19 +169,6 @@ while (alive) {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chayan4505/Chayan4505/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chayan4505/Chayan4505/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chayan4505Chayan4505/pritu761/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
-
----
 
 ## 💭 Random Dev Quote
 
