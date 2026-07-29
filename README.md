@@ -126,7 +126,7 @@ const Chayan = {
 ### 💻 Project Two
 <div align="center">
   
-<a href="https://github.com/pritu761">
+<a href="https://github.com/Chayan4505">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chayan4505&repo=Chayan4505&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Project Repository" />
 </a>
 
