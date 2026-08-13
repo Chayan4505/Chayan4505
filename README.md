@@ -58,28 +58,6 @@ const Chayan = {
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-
-### 📈 GitHub Stats
-<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chayan4505&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Chayan's github stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chayan4505&layout=compact&hide_border=true&title_color=00b4d8&text_color=00d9ff&bg_color=0d1117&cache_seconds=1800&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-### 🔥 GitHub Streaks
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Chayan4505&theme=radical&hide_border=false)
-
-
-</div>
-
-</div>
-
-<div align="center">
 
 ### 📊 Detailed Stats
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chayan4505&theme=tokyonight" />
